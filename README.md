@@ -23,6 +23,8 @@ The dataset consists of the following fields:
 - **6s**: Number of sixes hit.
 - **Dot %**: Percentage of dot balls faced.
 
+- Dashboard Interaction<a href="">View Dashboard</a>
+
 ## Key Insights
 - Kohli's performance peaked in ODI cricket between 2016-2018, with high averages and strike rates.
 - His Test performances have been consistent, with multiple years crossing 1,000+ runs.
@@ -35,6 +37,8 @@ This dataset can be used for:
 - Performance trend analysis of Virat Kohli.
 - Machine learning models for predicting player form.
 
+## Dashboard
+![Screenshot (122)](https://github.com/user-attachments/assets/c1e27458-59ba-40d0-9b36-6730f34189c7)
 
 
 
