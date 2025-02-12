@@ -23,7 +23,7 @@ The dataset consists of the following fields:
 - **6s**: Number of sixes hit.
 - **Dot %**: Percentage of dot balls faced.
 
-- Dashboard Interaction<a href="">View Dashboard</a>
+- Dashboard Interaction<a href="https://github.com/harsh-118/Virat-Kohli-Career-Stats-Analysis/blob/main/Virat%20Kohli%20Carrer%20Analysis.pbix">View Dashboard</a>
 
 ## Key Insights
 - Kohli's performance peaked in ODI cricket between 2016-2018, with high averages and strike rates.
